@@ -1,0 +1,271 @@
+body{
+    height:100vh;
+    background-image:url(images/featured-img-2.jpg);
+}
+
+.panel{                                                 /*div log/reg but*/
+    background:white;
+    width:auto;
+    height:95px;
+    display: flex;
+    
+}
+
+.login{                                                 /*log/reg but*/
+   
+    background-color: rgb(255, 51, 0);
+    color:white;
+    border:none;
+    border-radius: 4px;
+    height:25px;
+    width:130px;
+    position:relative;
+    margin-left:1110px;
+}
+
+
+
+.reg{                                                   /* reg here but*/
+    /* background: aqua; */
+    background: transparent;
+    border:none;
+   color:rgb(255, 17, 0);
+  
+}
+
+.loghere{                                               /*forpas to log but*/
+    background: transparent;
+   color: rgb(255, 17, 0);
+    border:none;
+}
+
+.backlb{                                                 /*reg to log but*/
+    background: transparent;
+   color: rgb(255, 17, 0);
+    border:none;
+}
+
+.forpass{                                               /*forget pass but*/
+    /* background: aqua; */
+    background: transparent;
+    border:none;
+   color:rgb(255, 17, 0);
+}
+
+
+.userlog{                                              /*login page*/
+    margin-top:50px;
+   background-color: white;
+    width:600px;
+    height: 320px;
+    
+}
+
+.userreg{                                                   /*reg pag div*/
+    margin-top:50px;
+    background-color: white;
+     width:600px;
+     height: 550px;
+}
+
+.userpas{                                                   /*forgot pass div*/
+    margin-top:50px;
+    background-color: white;
+    width:600px;
+    height: 515px;
+}
+
+input{
+    width:450px;
+    height: 40px;
+    margin:15px;
+    text-align:center;
+    border:3px;
+    border:none;
+    background-color: rgb(240, 232, 232);
+}
+
+.loginb{                                                /*log in but*/
+   background-color: darkorange;
+   border:none;
+}
+
+
+.regbp{                                                     /*reg here div*/
+    background-color: white;
+    width:600px;
+    height: 90px;
+}
+
+
+.backlog{                                                       /*back log div*/
+    background-color: white;
+    width:600px;
+    height: 60px;
+}
+
+.lb{                                                            /*reg to login back but div*/
+    background-color: white;
+    width:600px;
+    height: 65px;
+}
+
+
+.resetpas{                                              /*reset pass but*/
+    background-color: darkorange;
+    border:none;
+}
+
+.under{
+    background-color: rgb(240, 232, 232);
+    width:450;
+    height: 2px;
+}
+
+.lab{                                                                   /*label of reset pass state*/
+    color:rgb(192, 189, 189);
+}
+
+.b1{                                                        /*navbar*/
+background: transparent;
+border:none;
+color:white;
+margin-top:30px;
+margin-left:20px;
+}
+
+.d2{
+    background: rgb(196, 191, 196);
+    height: 90px;
+    
+}
+
+.seperate{
+display: flex;
+}
+
+
+    .con{
+        width:450px;
+        height: 40px;
+        margin:15px;
+        text-align: start;
+        border:3px;
+        border:none;
+        background-color: white;
+    }
+
+ .usercon{
+    background-color: rgb(231, 224, 224);
+    margin-top:50px;
+   
+     width:600px;
+     height: 650px;
+ }
+
+ .contact{
+    color:rgb(114, 108, 108);
+ }
+
+ .msg{
+     background-color:  rgb(255, 51, 0);
+     width:200px;
+     border-radius: 5px;
+ }
+ .profilediv{
+    
+    background:  white;
+    width:1300px;
+    height: 1500px;
+   
+ }
+
+
+
+ .vertical-menu {
+    width: 300px;
+  }
+  
+  .vertical-menu a {
+    background-color: #eee;
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+  }
+  
+  .vertical-menu a:hover {
+    background-color: #ccc;
+  }
+
+  
+  .bigpanel{
+      display:flex;
+  }
+
+  .nameplate{
+      background-color: cornsilk;
+      margin-top:90px;
+      width:500;
+      height: 300px;
+  }
+
+  
+
+ 
+ 
+  .subprofilediv{
+      background-color: rgb(172, 151, 245);
+      margin-top:  60px;
+      width: 1000px;
+        height: 700px;
+  }
+
+/* 
+  .book{
+      
+      display:flex;
+    height:500px;
+    
+   background:black;
+  } */
+
+  .booksub1{
+    width: 400px;
+      height:200px;
+      margin-left:-425px;
+      margin-top:30px;
+      background:black;
+  }
+
+
+.blocimg1{
+    width: 100%;
+    height:100%;
+}
+
+.booksub2{
+    width: 420px;
+    height:200px;
+    margin-left:420px;
+    margin-top:-200px;
+background:white;
+font-size:50px;
+padding:2px;
+}
+
+.bookingdiv{
+    
+    width:840px;
+    height:200px;
+    background:transparent;
+}
+
+.br{
+    /* background-color: blue; */
+    margin-top: -15px;
+    /* margin-left:-45px; */
+}
+
+
+ 
